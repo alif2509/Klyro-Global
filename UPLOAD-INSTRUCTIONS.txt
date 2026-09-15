@@ -1,0 +1,38 @@
+AL ALIF AKASH WEBSITE
+
+This package contains the latest website, including all 24 portfolio images,
+service icons, enhanced portrait, sticky contact strip, and social links.
+
+UPLOAD
+1. Extract this ZIP.
+2. Upload index.html, style.css, refinements.css, app.js, projects.json,
+   robots.txt, sitemap.xml, and the assets folder to your hosting web root.
+   On many shared hosts, the web root is public_html.
+3. Keep index.html directly inside the web root, not inside an extra folder.
+4. Open your domain with HTTPS and check the portfolio filters and links.
+
+DOMAIN SETTINGS FOR SEO
+Before uploading, replace this old origin everywhere in index.html,
+robots.txt, and sitemap.xml with your own HTTPS domain:
+https://al-alif-akash-portfolio.honest-cat-1691.chatgpt.site
+
+This updates the canonical URL, Open Graph URL, structured data, and sitemap.
+Use your domain without a trailing slash for the replacement.
+
+REQUIREMENTS
+Standard static HTML hosting. No Node.js, build step, database, or PHP needed.
+Fonts load from Google Fonts and require an internet connection.
+Project enquiries open your existing Google Form. Email opens an email app.
+WhatsApp and social buttons open the existing external profile links.
+
+The private access restriction on the Sites preview does not travel with this
+ZIP. Access on your new host follows your hosting settings.
+
+EDITING
+index.html: page content, service icons, project cards, and search metadata.
+style.css and refinements.css: layout, colors, mobile styles, and animation.
+app.js: portfolio previews, filters, floating links, and sticky contact strip.
+assets/: all website images.
+projects.json: project reference data. Runtime project data also lives in app.js.
+
+Keep this instruction file on your computer. It does not need uploading.

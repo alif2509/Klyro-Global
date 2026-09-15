@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://al-alif-akash-portfolio.honest-cat-1691.chatgpt.site/sitemap.xml
